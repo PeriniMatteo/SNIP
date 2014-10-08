@@ -1,0 +1,9 @@
+track001 = Ancora
+track002 = Mi piace
+track003 = Per piacere
+track004 = Casa
+track005 = Bagno
+track006 = Aiutami
+track007 = Non mi piace
+track008 = Basta
+track009 = Grazie
